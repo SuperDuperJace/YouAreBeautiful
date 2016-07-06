@@ -22,7 +22,7 @@ body {
   transform-style: preserve-3d;
 }
 
-.cube:hover, .cube:focus, .cube:active {
+.cube:active {
 	transform: rotateX(95deg);
 }
 
